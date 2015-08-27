@@ -1,0 +1,7 @@
+C:\Users\Patrick\Documents\BombBomb\BombBombDotNet\BombBomb\bin\Release\BombBomb.dll
+C:\Users\Patrick\Documents\BombBomb\BombBombDotNet\BombBomb\bin\Release\BombBomb.pdb
+C:\Users\Patrick\Documents\BombBomb\BombBombDotNet\BombBomb\bin\Release\Newtonsoft.Json.dll
+C:\Users\Patrick\Documents\BombBomb\BombBombDotNet\BombBomb\bin\Release\Newtonsoft.Json.xml
+C:\Users\Patrick\Documents\BombBomb\BombBombDotNet\BombBomb\obj\Release\BombBomb.csprojResolveAssemblyReference.cache
+C:\Users\Patrick\Documents\BombBomb\BombBombDotNet\BombBomb\obj\Release\BombBomb.dll
+C:\Users\Patrick\Documents\BombBomb\BombBombDotNet\BombBomb\obj\Release\BombBomb.pdb
