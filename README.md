@@ -1,3 +1,5 @@
+Test Branch Protection. Delete me.
+
 # BombBombDotNet
 A .Net wrapper for the BombBomb API
 
